@@ -1,0 +1,2 @@
+# Power-BI-Project-3-Logistics-Transportation-Fleet-Performance-Delivery-Efficiency
+This repository showcases an interactive Power BI dashboard built for data analysis and visualization. It includes the .pbix file, dataset, and supporting documentation. The project demonstrates advanced Power BI techniques such as data modeling, DAX calculations, relationships, KPIs, and dynamic visuals for business insights.
